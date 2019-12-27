@@ -119,14 +119,14 @@ Before you begin, ensure you have met the following requirements:
 ## Using the experiment
 
 If you are using an IDE like IntelliJ or Eclipse, use the following steps to run the project
-* Point the working directory to Logic-Programming-Agent
-* Main class: LogicAgent
+* Point the working directory to Halma-Game
+* Main class: HalmaGame
 * JRE: 1.8
 * Run the project
 
 If you are running the project on command line, follow these steps:<br/>
 * Clone/Download the project to your local machine.
-* Navigate to the folder with LogicAgent.java file.
+* Navigate to the folder with HalmaGame.java file.
 * Run the following commands:
 ```
 javac HalmaGame.java
