@@ -168,4 +168,4 @@ java HalmaGame
 
 ## Contact
 
-If you want to contact me you can reach me at ```km69564@usc.edu``` or ```krishnamanoj14@gmail.com```
+If you want to contact me you can reach me at <km69564@usc.edu> or <krishnamanoj14@gmail.com>
